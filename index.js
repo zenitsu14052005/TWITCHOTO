@@ -26,7 +26,7 @@ client.on('ready', async () => {
       current: 4,
       id: Discord.getUUID(),
     })
-    .setAssetsLargeImage(`mp:attachments/1121028827339030629/1181720003364528249/sad-anime-hug.gif?ex=65821584&is=656fa084&hm=a0944bda9006c2425081cae5b4b267ff3c1202d684f6116c269b47b9c34f376f&`)
+    .setAssetsLargeImage(`mp:attachments/1168526263665827900/1201013334816858162/anime-couple-cry-gif-favim-com-3637833.gif?ex=65c845d4&is=65b5d0d4&hm=a4e2aec639576eb08f583dcc6b219fa1660d7793e80fcbc95ab4921f93857c9b&`)
     .setAssetsLargeText(`crazy`)
     .addButton(`BRUTAL BEERUS`, `https://discord.gg/C6TWAAWAU9`)
     .addButton(`ZENITSU</3`, `https://discord.gg/CBgvQtYhVf`)
