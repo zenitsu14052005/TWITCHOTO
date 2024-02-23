@@ -47,7 +47,7 @@ client.on('ready', async () => {
     .setAssetsLargeImage(`mp:attachments/1168526263665827900/1201013334816858162/anime-couple-cry-gif-favim-com-3637833.gif?ex=65c845d4&is=65b5d0d4&hm=a4e2aec639576eb08f583dcc6b219fa1660d7793e80fcbc95ab4921f93857c9b&`)
     .setAssetsLargeText(`crazy`)
     .addButton(`BRUTAL BEERUS`, `https://discord.gg/C6TWAAWAU9`)
-    .addButton(`ZENITSU</3`, `https://discord.gg/CBgvQtYhVf`)
+    .addButton(`ZENITSU</3`, `https://discord.gg/zenni-realm-873124938435944488`)
   client.user.setActivity(rpc.toJSON());
   console.log(`${client.user.tag} is ready!`);
 });
