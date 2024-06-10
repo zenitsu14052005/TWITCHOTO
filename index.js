@@ -46,7 +46,7 @@ client.on('ready', async () => {
       current: 4,
       id: Discord.getUUID(),
     })
-    .setAssetsLargeImage(`mp:attachments/1158679802056810506/1218443036154138695/f9149157eb6b90cc828ae1e183c82c05.gif?ex=6607ae81&is=65f53981&hm=8e59959d3ab3c0409d8b4e983556eb476044c0ee21a814db0ac4b5358ca9036f&`)
+    .setAssetsLargeImage(`mp:attachments/1226108384663703614/1249859033549111307/HD-wallpaper-anime-chainsaw-man-pochita-chainsaw-man-denji-chainsaw.png?ex=6668d56e&is=666783ee&hm=c2b1f76a2530137a9b76506756924b1ce3a9dc5a2152366e6bd5720d928658ce&`)
     .setAssetsLargeText(`crazy`)
     .addButton(`BRUTAL BEERUS`, `https://discord.gg/C6TWAAWAU9`)
     .addButton(`ZENITSU</3`, `https://discord.gg/CBgvQtYhVf`);
